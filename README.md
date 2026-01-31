@@ -8,7 +8,7 @@ A lightweight, terminal-based tool that instantly converts text-based task lists
 * **Smart Sorting:** Automatically arranges tasks chronologically (earliest start date at the top).
 * **Duration Labels:** Automatically calculates days and displays them next to the bars (e.g., **10d**).
 * **Validation:** Robust error handling that tells you exactly which line is formatted incorrectly.
-* **Micro-Task Support:** Tasks starting and ending on the same day are rendered as 1-day blocks (instead of invisible lines)
+* **Micro-Task Support:** Tasks starting and ending on the same day are rendered as 1-day blocks (instead of invisible lines).
 
 
 
